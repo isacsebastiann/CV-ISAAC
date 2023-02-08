@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/elegante-fondo-blanco-formas-limpias_1017-33202.jpg?w=2000);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+.perfil{
+    float: center;
+    /*height: 10%;
+    width: 5%;*/
+}
+.title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 50px;
+      color: rgb(9, 13, 34);
+      font-weight: bolder;
+    }
+.subtitle {
+        font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          font-size: 30px;
+          color: rgb(9, 13, 34);
+          font-weight: bolder;
+        }
+    
+
+.sign {
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 20px;
+    border: 1px solid rgba(20, 100, 124, 0.906);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    transition: all 1s ease-in-out;
+      }
+
+h1 {
+    text-align: center;
+    font-family:'Lucida Sans Unicode';
+    font-size: 30px;
+    color: rgb(9, 13, 34);
+}
+h3{
+    text-align: center;
+    font-family:'Lucida Sans Unicode';
+    font-size: 30px;
+    color: rgb(9, 13, 34);
+
+}
+
+
+img {
+
+    width: 400px;
+    height: 200px;
+}
